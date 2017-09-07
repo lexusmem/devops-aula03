@@ -4,3 +4,4 @@
 * GitLab
 * Subversion
 * CVS
+* Alteração do arquivo através do tortoise
